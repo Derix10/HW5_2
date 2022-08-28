@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
    <ImageButton
-        app:cornerRadius="23dp"
+        app:cornerRadius="22dp"
         android:layout_width="50dp"
         android:layout_height="39dp"
         android:background="@color/white"
